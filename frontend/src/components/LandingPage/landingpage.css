@@ -1,0 +1,27 @@
+h1{
+    margin-top: 5%;
+    text-align: center;
+}
+.btn3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px; 
+    width: 120px; 
+    margin: 0 auto; 
+    background-color: #042b55;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-top: 10%;
+  }
+ body {
+    margin: 0; 
+    height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(10deg, rgba(2,0,36,1) 0%, rgb(113, 106, 72) 40%, rgba(0,212,255,1) 100%);
+    padding: 0; 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+  }
